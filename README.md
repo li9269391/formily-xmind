@@ -1,5 +1,5 @@
 # formily-xmind
-心得：因为 Formily 的学习成本还是比较高的，思维导图能够帮助初学者快速了解 Formily 的全貌。想要深入了解及使用，当最重要的还是看文档。
+心得：因为 Formily 的学习成本还是比较高的，思维导图能够帮助初学者快速了解 Formily 的全貌。想要深入了解及使用，最重要的还是看[官方文档](https://v2.formilyjs.org/)
 
 ### 我的学习路线：
 1. @formily/core，了解 Formily 的核心思路
